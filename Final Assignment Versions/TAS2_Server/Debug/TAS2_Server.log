@@ -1,0 +1,11 @@
+﻿  Comms.cpp
+  C_S_Exceptions.cpp
+  TAS2_Server.cpp
+  _Client.cpp
+  _Server.cpp
+A:\Uni\Advanced Programming\Final Assignment Versions\TAS2_Server\Comms.cpp(29,6): warning C4101: 'wsaerr': unreferenced local variable
+A:\Uni\Advanced Programming\Final Assignment Versions\TAS2_Server\_Server.cpp(109,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+A:\Uni\Advanced Programming\Final Assignment Versions\TAS2_Server\_Server.cpp(182,23): warning C4018: '<': signed/unsigned mismatch
+A:\Uni\Advanced Programming\Final Assignment Versions\TAS2_Server\C_S_Exceptions.cpp(11): warning C4172: returning address of local variable or temporary: eA
+  TAS2_Server.vcxproj -> A:\Uni\Advanced Programming\Final Assignment Versions\TAS2_Server\Debug\TAS2_Server.exe

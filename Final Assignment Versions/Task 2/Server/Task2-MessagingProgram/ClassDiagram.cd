@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_Client">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIABAAAAAAAAAAAAAAABEAAAAAAEgAAAIAAAAAAAI=</HashCode>
+      <FileName>_Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_Server">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAgAAAAIgAIEACAAAAAAAAACAIAAgAAAAAAAAAAAI=</HashCode>
+      <FileName>_Server.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C_S_Exceptions">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>C_S_Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comms">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAABAAAAAAAAAAAAAAAAQAAQ=</HashCode>
+      <FileName>Comms.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
